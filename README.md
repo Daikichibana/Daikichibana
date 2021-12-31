@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Daiki. 👋
+
+Here you can find my university and personal projects 😄.
 
 <!--
 **Daikichibana/Daikichibana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
