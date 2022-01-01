@@ -17,4 +17,4 @@ Here you can find my university and personal projects 😄.
 
 ### About Me
 I'm currently learning about system design and cloud computing concepts. 
-I spend my free time resolving problems in leetcode, playing music and doing any kind of sport.
+I spend my free time solving problems in leetcode, playing music and doing any kind of sport.
