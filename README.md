@@ -1,3 +1,5 @@
+![Welcome to my github page!](https://www.nintendo-insider.com/wp-content/uploads/2016/01/pikachu-banner.jpg)
+
 ### Hi, I'm Daiki. 👋
 
 Here you can find my university and personal projects 😄.
