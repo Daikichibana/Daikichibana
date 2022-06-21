@@ -17,6 +17,3 @@ Here you can find my university and personal projects 😄.
 #### UI Automation
 `Cypress` `BDD with Cucumber` `Selenium`
 
-### About Me
-I'm currently learning about system design and cloud computing concepts. 
-I spend my free time solving problems in leetcode, playing music and doing any kind of sport.
