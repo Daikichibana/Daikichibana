@@ -6,13 +6,13 @@ Here you can find my university and personal projects 😄.
 
 ### Technical Skills
 #### Frontend
-`HTML5` `CSS3` `Javascript ES6` `React` `Vue`
+`HTML5` `CSS3` `Javascript ES6` `React`
 
 #### Backend
-`ASP.NET Core` `ASP.NET Framework` `SQL Server` `PostgreSQL`
+`ASP.NET Core` `ASP.NET Framework` `SQL Server` `PostgreSQL` `Spring boot` `Redis`
 
 #### Languages
-`C#` `Java` `Python`
+`C#` `Java` `Python` `C++`
 
 #### UI Automation
 `Cypress` `BDD with Cucumber` `Selenium`
